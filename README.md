@@ -1,2 +1,6 @@
-# pitstop-bbq
-Elevate your food ordering experience with this React-powered platform. Explore our menu effortlessly and place orders with ease. Enjoy convenience and efficiency at your fingertips
+# food-order-app
+
+# link-for-the-app
+
+# https://food-order-app-io.herokuapp.com/
+
