@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pitstop-bbq/static/css/main.430763bd.css",
+    "main.js": "/pitstop-bbq/static/js/main.af487846.js",
+    "static/media/meals.jpg": "/pitstop-bbq/static/media/meals.f8ffd2a03bf6291ea5e1.jpg",
+    "index.html": "/pitstop-bbq/index.html",
+    "main.430763bd.css.map": "/pitstop-bbq/static/css/main.430763bd.css.map",
+    "main.af487846.js.map": "/pitstop-bbq/static/js/main.af487846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.430763bd.css",
+    "static/js/main.af487846.js"
+  ]
+}
